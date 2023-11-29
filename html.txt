@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Resume</title>
+</head>
+</body>
+     <header>
+         <h1>Sherman</h1>
+         <p>Web Developer</p>
+     </header>
+   
+     <section>
+         <h2>Contact Information</h2>
+         <p>Email: gallogoeman@gmail.com</p>
+         <p>Phone: (09565531030)</p>
+     </section>
+
+     <section>
+         <h2>Education</h2>
+         <p>College of Computer Studies, Jose Rizal State University</p>
+         <p>Bachelor of Science in Computer Science</p>
+     </section>
+   
+     <section>
+         <h2>Work Experience</h2>
+         <h3>Web Developer at XYZ Company</h3>
+         <p>Developed and
